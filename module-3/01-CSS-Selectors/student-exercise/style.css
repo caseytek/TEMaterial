@@ -1,0 +1,121 @@
+:root {
+    --top-row-height: 120px;
+    --gutter: 20px;
+    --blue: #00adee;
+    --light-blue: rgba(0, 173, 238, 0.4);
+    --green: #8cc36f;
+    --light-green: rgba(170, 239, 135, 0.8);  
+    --bg-color: rgba(192, 192, 192, 0.1);
+    --subheading: rgba(0, 0, 0, 0.6);
+  }
+  
+  * {
+    box-sizing: border-box;
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+  }
+
+  aside {
+    display: inline-block;
+    position: fixed;
+    width: 200px;
+    text-align: center;
+    padding-right: 38px;
+  }
+
+  aside ul:nth-child(5) { 
+    padding-right: 25px;
+    padding-left: 25px;
+  }
+
+
+  aside a {
+    color: var(--blue);
+    text-decoration: none;
+    font-size: larger;
+    padding-right: 17px;
+    border-style: none none solid none;
+    border-width: thin;
+    border-color: var(--light-blue);
+    
+}
+
+  aside li {
+    list-style: none;
+    padding-bottom: 16px;
+    
+  }
+  
+  main {
+    position: relative;
+    margin-left: 200px;
+    display: inline-block;
+    border-style: none none none solid;
+    border-color: var(--light-blue);
+    border-width: thin;
+    padding: var(--gutter);
+  }
+
+  aside img {
+    height: 100px;
+    width: 100px;    
+    margin-right: -27px;
+  }
+
+  div h2{
+    color: var(--green)
+  }
+
+  .subheading{
+    visibility: hidden;
+  }
+
+  header img {
+  height: var(--top-row-height);
+  }
+
+  main img:nth-child(2) { 
+    width: 100%;
+    margin-top: -40px;
+    margin-bottom: 10px;
+  }
+
+  body{
+    background-color: var(--bg-color);
+  }
+
+  section i {
+     margin-right: 15px;
+  }
+
+  section div {
+    float: left;
+    width: 33.33%;
+    padding-left: 20px;
+    margin-bottom: 15px;
+    }
+
+
+  section{
+    width: 100%;
+  }
+
+  section p {
+    padding-right: 15px;
+  }
+
+  #what-we-do{
+    border-style: none solid none none;
+    border-color: var( --light-green);
+    border-width: thin;
+  }
+
+  #our-work{
+  border-style: none solid none none;
+  border-color: var( --light-green);
+  border-width: thin;
+  }
+
+
+
+
+ 

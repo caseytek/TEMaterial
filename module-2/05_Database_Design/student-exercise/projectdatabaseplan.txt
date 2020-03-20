@@ -1,0 +1,86 @@
+employee
+1. PK employee_number (SERIAL NN)
+2. first_name VARCHAR(30)
+3. last_name VARCHAR(30)
+4. job_title VARCHAR(30)
+5. gender VARCHAR(5)
+6. date_of_birth VARCHAR(30)
+7. date_of_hire (DATE)
+
+employee_department
+1. FK employee_number INTEGER NOT NULL
+2. FK department_number INTEGER NOT NULL
+ 
+department
+1. PK department_number (SERIAL NN)
+2. name VARCHAR (30)
+3. number_of_employees INTEGER
+
+employee_project
+1. FK employee_id INTEGER NOT NULL
+2. FK project_id INTEGER NOT NULL
+
+project
+1. PK project_id (SERIAL NN)
+2. name VARCHAR(30)
+3. start_date DATE
+4. number_of_employees INTEGER
+
+BEGIN TRANSACTION;
+
+CREATE TABLE owner_information
+(
+        owner_id SERIAL NOT NULL PRIMARY KEY,
+        owner_address VARCHAR(50),
+        city_name VARCHAR(30),
+        district VARCHAR(2),
+        postal_code VARCHAR(10)
+);       
+
+CREATE TABLE pet
+(
+        pet_id SERIAL NOT NULL PRIMARY KEY,
+        pet_name VARCHAR(30) NOT NULL,
+        pet_type VARCHAR(30) NOT NULL,
+        pet_age INTEGER,
+        owner_id INTEGER NOT NULL,
+        
+        CONSTRAINT fk_owner_information FOREIGN KEY (owner_id) REFERENCES owner_information (owner_id)
+);
+
+CREATE TABLE pet_owner
+(
+        owner_id INTEGER NOT NULL,
+        pet_id INTEGER NOT NULL,
+        
+        CONSTRAINT fk_owner_information FOREIGN KEY (owner_id) REFERENCES owner_information (owner_id),
+        CONSTRAINT fk_pet FOREIGN KEY (pet_id) REFERENCES pet (pet_id)
+);
+
+CREATE TABLE visit
+(
+        visit_id SERIAL NOT NULL PRIMARY KEY,
+        pet_id INTEGER NOT NULL, 
+        visit_date DATE,
+        
+        CONSTRAINT fk_pet FOREIGN KEY (pet_id) REFERENCES pet (pet_id)
+);
+
+CREATE TABLE procedures
+(
+        procedure_id SERIAL NOT NULL PRIMARY KEY,
+        procedure_description VARCHAR(128),
+        procedure_cost FLOAT
+);
+
+CREATE TABLE visit_procedure
+(
+        visit_id INTEGER NOT NULL,
+        procedure_id INTEGER NOT NULL,
+        
+        CONSTRAINT fk_visit FOREIGN KEY (visit_id) REFERENCES visit (visit_id),
+        CONSTRAINT fk_procedures FOREIGN KEY (procedure_id) references procedures (procedure_id)
+);
+ 
+ COMMIT TRANSACTION;
+        

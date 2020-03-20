@@ -1,0 +1,300 @@
+1 does not return Fizz, Buzz, or FizzBuzz
+2 does not return Fizz, Buzz, or FizzBuzz
+3 returns Fizz
+4 does not return Fizz, Buzz, or FizzBuzz
+5 returns Fizz
+6 returns Fizz
+7 does not return Fizz, Buzz, or FizzBuzz
+8 does not return Fizz, Buzz, or FizzBuzz
+9 returns Fizz
+10 returns Fizz
+11 does not return Fizz, Buzz, or FizzBuzz
+12 returns Fizz
+13 returns Fizz
+14 does not return Fizz, Buzz, or FizzBuzz
+15 returns FizzBuzz
+16 does not return Fizz, Buzz, or FizzBuzz
+17 does not return Fizz, Buzz, or FizzBuzz
+18 returns Fizz
+19 does not return Fizz, Buzz, or FizzBuzz
+20 returns Fizz
+21 returns Fizz
+22 does not return Fizz, Buzz, or FizzBuzz
+23 returns Fizz
+24 returns Fizz
+25 returns Fizz
+26 does not return Fizz, Buzz, or FizzBuzz
+27 returns Fizz
+28 does not return Fizz, Buzz, or FizzBuzz
+29 does not return Fizz, Buzz, or FizzBuzz
+30 returns FizzBuzz
+31 returns Fizz
+32 returns Fizz
+33 returns Fizz
+34 returns Fizz
+35 returns Fizz
+36 returns Fizz
+37 returns Fizz
+38 returns Fizz
+39 returns Fizz
+40 returns Fizz
+41 does not return Fizz, Buzz, or FizzBuzz
+42 returns Fizz
+43 returns Fizz
+44 does not return Fizz, Buzz, or FizzBuzz
+45 returns FizzBuzz
+46 does not return Fizz, Buzz, or FizzBuzz
+47 does not return Fizz, Buzz, or FizzBuzz
+48 returns Fizz
+49 does not return Fizz, Buzz, or FizzBuzz
+50 returns Fizz
+51 returns Fizz
+52 returns Fizz
+53 returns Fizz
+54 returns Fizz
+55 returns Fizz
+56 returns Fizz
+57 returns Fizz
+58 returns Fizz
+59 returns Fizz
+60 returns FizzBuzz
+61 does not return Fizz, Buzz, or FizzBuzz
+62 does not return Fizz, Buzz, or FizzBuzz
+63 returns Fizz
+64 does not return Fizz, Buzz, or FizzBuzz
+65 returns Fizz
+66 returns Fizz
+67 does not return Fizz, Buzz, or FizzBuzz
+68 does not return Fizz, Buzz, or FizzBuzz
+69 returns Fizz
+70 returns Fizz
+71 does not return Fizz, Buzz, or FizzBuzz
+72 returns Fizz
+73 returns Fizz
+74 does not return Fizz, Buzz, or FizzBuzz
+75 returns FizzBuzz
+76 does not return Fizz, Buzz, or FizzBuzz
+77 does not return Fizz, Buzz, or FizzBuzz
+78 returns Fizz
+79 does not return Fizz, Buzz, or FizzBuzz
+80 returns Fizz
+81 returns Fizz
+82 does not return Fizz, Buzz, or FizzBuzz
+83 returns Fizz
+84 returns Fizz
+85 returns Fizz
+86 does not return Fizz, Buzz, or FizzBuzz
+87 returns Fizz
+88 does not return Fizz, Buzz, or FizzBuzz
+89 does not return Fizz, Buzz, or FizzBuzz
+90 returns FizzBuzz
+91 does not return Fizz, Buzz, or FizzBuzz
+92 does not return Fizz, Buzz, or FizzBuzz
+93 returns Fizz
+94 does not return Fizz, Buzz, or FizzBuzz
+95 returns Fizz
+96 returns Fizz
+97 does not return Fizz, Buzz, or FizzBuzz
+98 does not return Fizz, Buzz, or FizzBuzz
+99 returns Fizz
+100 returns Fizz
+101 does not return Fizz, Buzz, or FizzBuzz
+102 returns Fizz
+103 returns Fizz
+104 does not return Fizz, Buzz, or FizzBuzz
+105 returns FizzBuzz
+106 does not return Fizz, Buzz, or FizzBuzz
+107 does not return Fizz, Buzz, or FizzBuzz
+108 returns Fizz
+109 does not return Fizz, Buzz, or FizzBuzz
+110 returns Fizz
+111 returns Fizz
+112 does not return Fizz, Buzz, or FizzBuzz
+113 returns Fizz
+114 returns Fizz
+115 returns Fizz
+116 does not return Fizz, Buzz, or FizzBuzz
+117 returns Fizz
+118 does not return Fizz, Buzz, or FizzBuzz
+119 does not return Fizz, Buzz, or FizzBuzz
+120 returns FizzBuzz
+121 does not return Fizz, Buzz, or FizzBuzz
+122 does not return Fizz, Buzz, or FizzBuzz
+123 returns Fizz
+124 does not return Fizz, Buzz, or FizzBuzz
+125 returns Fizz
+126 returns Fizz
+127 does not return Fizz, Buzz, or FizzBuzz
+128 does not return Fizz, Buzz, or FizzBuzz
+129 returns Fizz
+130 returns Fizz
+131 returns Fizz
+132 returns Fizz
+133 returns Fizz
+134 returns Fizz
+135 returns FizzBuzz
+136 returns Fizz
+137 returns Fizz
+138 returns Fizz
+139 returns Fizz
+140 returns Fizz
+141 returns Fizz
+142 does not return Fizz, Buzz, or FizzBuzz
+143 returns Fizz
+144 returns Fizz
+145 returns Fizz
+146 does not return Fizz, Buzz, or FizzBuzz
+147 returns Fizz
+148 does not return Fizz, Buzz, or FizzBuzz
+149 does not return Fizz, Buzz, or FizzBuzz
+150 returns FizzBuzz
+151 returns Fizz
+152 returns Fizz
+153 returns Fizz
+154 returns Fizz
+155 returns Fizz
+156 returns Fizz
+157 returns Fizz
+158 returns Fizz
+159 returns Fizz
+160 returns Fizz
+161 does not return Fizz, Buzz, or FizzBuzz
+162 returns Fizz
+163 returns Fizz
+164 does not return Fizz, Buzz, or FizzBuzz
+165 returns FizzBuzz
+166 does not return Fizz, Buzz, or FizzBuzz
+167 does not return Fizz, Buzz, or FizzBuzz
+168 returns Fizz
+169 does not return Fizz, Buzz, or FizzBuzz
+170 returns Fizz
+171 returns Fizz
+172 does not return Fizz, Buzz, or FizzBuzz
+173 returns Fizz
+174 returns Fizz
+175 returns Fizz
+176 does not return Fizz, Buzz, or FizzBuzz
+177 returns Fizz
+178 does not return Fizz, Buzz, or FizzBuzz
+179 does not return Fizz, Buzz, or FizzBuzz
+180 returns FizzBuzz
+181 does not return Fizz, Buzz, or FizzBuzz
+182 does not return Fizz, Buzz, or FizzBuzz
+183 returns Fizz
+184 does not return Fizz, Buzz, or FizzBuzz
+185 returns Fizz
+186 returns Fizz
+187 does not return Fizz, Buzz, or FizzBuzz
+188 does not return Fizz, Buzz, or FizzBuzz
+189 returns Fizz
+190 returns Fizz
+191 does not return Fizz, Buzz, or FizzBuzz
+192 returns Fizz
+193 returns Fizz
+194 does not return Fizz, Buzz, or FizzBuzz
+195 returns FizzBuzz
+196 does not return Fizz, Buzz, or FizzBuzz
+197 does not return Fizz, Buzz, or FizzBuzz
+198 returns Fizz
+199 does not return Fizz, Buzz, or FizzBuzz
+200 returns Fizz
+201 returns Fizz
+202 does not return Fizz, Buzz, or FizzBuzz
+203 returns Fizz
+204 returns Fizz
+205 returns Fizz
+206 does not return Fizz, Buzz, or FizzBuzz
+207 returns Fizz
+208 does not return Fizz, Buzz, or FizzBuzz
+209 does not return Fizz, Buzz, or FizzBuzz
+210 returns FizzBuzz
+211 does not return Fizz, Buzz, or FizzBuzz
+212 does not return Fizz, Buzz, or FizzBuzz
+213 returns Fizz
+214 does not return Fizz, Buzz, or FizzBuzz
+215 returns Fizz
+216 returns Fizz
+217 does not return Fizz, Buzz, or FizzBuzz
+218 does not return Fizz, Buzz, or FizzBuzz
+219 returns Fizz
+220 returns Fizz
+221 does not return Fizz, Buzz, or FizzBuzz
+222 returns Fizz
+223 returns Fizz
+224 does not return Fizz, Buzz, or FizzBuzz
+225 returns FizzBuzz
+226 does not return Fizz, Buzz, or FizzBuzz
+227 does not return Fizz, Buzz, or FizzBuzz
+228 returns Fizz
+229 does not return Fizz, Buzz, or FizzBuzz
+230 returns Fizz
+231 returns Fizz
+232 returns Fizz
+233 returns Fizz
+234 returns Fizz
+235 returns Fizz
+236 returns Fizz
+237 returns Fizz
+238 returns Fizz
+239 returns Fizz
+240 returns FizzBuzz
+241 does not return Fizz, Buzz, or FizzBuzz
+242 does not return Fizz, Buzz, or FizzBuzz
+243 returns Fizz
+244 does not return Fizz, Buzz, or FizzBuzz
+245 returns Fizz
+246 returns Fizz
+247 does not return Fizz, Buzz, or FizzBuzz
+248 does not return Fizz, Buzz, or FizzBuzz
+249 returns Fizz
+250 returns Fizz
+251 returns Fizz
+252 returns Fizz
+253 returns Fizz
+254 returns Fizz
+255 returns FizzBuzz
+256 returns Fizz
+257 returns Fizz
+258 returns Fizz
+259 returns Fizz
+260 returns Fizz
+261 returns Fizz
+262 does not return Fizz, Buzz, or FizzBuzz
+263 returns Fizz
+264 returns Fizz
+265 returns Fizz
+266 does not return Fizz, Buzz, or FizzBuzz
+267 returns Fizz
+268 does not return Fizz, Buzz, or FizzBuzz
+269 does not return Fizz, Buzz, or FizzBuzz
+270 returns FizzBuzz
+271 does not return Fizz, Buzz, or FizzBuzz
+272 does not return Fizz, Buzz, or FizzBuzz
+273 returns Fizz
+274 does not return Fizz, Buzz, or FizzBuzz
+275 returns Fizz
+276 returns Fizz
+277 does not return Fizz, Buzz, or FizzBuzz
+278 does not return Fizz, Buzz, or FizzBuzz
+279 returns Fizz
+280 returns Fizz
+281 does not return Fizz, Buzz, or FizzBuzz
+282 returns Fizz
+283 returns Fizz
+284 does not return Fizz, Buzz, or FizzBuzz
+285 returns FizzBuzz
+286 does not return Fizz, Buzz, or FizzBuzz
+287 does not return Fizz, Buzz, or FizzBuzz
+288 returns Fizz
+289 does not return Fizz, Buzz, or FizzBuzz
+290 returns Fizz
+291 returns Fizz
+292 does not return Fizz, Buzz, or FizzBuzz
+293 returns Fizz
+294 returns Fizz
+295 returns Fizz
+296 does not return Fizz, Buzz, or FizzBuzz
+297 returns Fizz
+298 does not return Fizz, Buzz, or FizzBuzz
+299 does not return Fizz, Buzz, or FizzBuzz
+300 returns FizzBuzz
